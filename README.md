@@ -17,7 +17,7 @@ The TopOn BidMachine mediation adapter for iOS, distributed via Swift Package Ma
    ```
    https://github.com/toponteam-packages/TPNMediationBidMachineAdapter_SPM
    ```
-3. Select **Exact Version** and enter the target version (e.g. `3.8.0-2.0`).
+3. Select **Exact Version** and enter the target version (e.g. `30800.2.0`).
 4. Add the `TPNMediationBidMachineAdapter` product to your app target.
 5. In your target's **Build Settings**, add `-ObjC` to **Other Linker Flags**.
 
@@ -27,7 +27,7 @@ The TopOn BidMachine mediation adapter for iOS, distributed via Swift Package Ma
 dependencies: [
     .package(
         url: "https://github.com/toponteam-packages/TPNMediationBidMachineAdapter_SPM.git",
-        exact: "3.8.0-2.0"
+        exact: "30800.2.0"
     )
 ]
 ```
