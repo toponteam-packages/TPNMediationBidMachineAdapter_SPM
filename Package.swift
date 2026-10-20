@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AnyThinkBidMachineAdapter",
-            url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/TPN_Release/iosnetwork_2/AnyThinkBidMachineAdapter/3.8.0.2.0/AnyThinkBidMachineAdapter-3.8.0.2.0.zip",
-            checksum: "ec65b47b0d06e8a2f3890234806a39efae524e32f7b4b7aca6277303a0fbf577"
+            url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/TPN_Release/iosnetwork_2/AnyThinkBidMachineAdapter/3.8.0.2.9/AnyThinkBidMachineAdapter-3.8.0.2.9.zip",
+            checksum: "524e9ea10023438c5558e0374a5e1ae0244a1f86e5aaad0745c4c2882a142020"
         ),
         .target(
             name: "TPNMediationBidMachineAdapterTarget",
